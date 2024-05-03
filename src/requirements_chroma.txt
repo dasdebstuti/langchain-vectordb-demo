@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-chroma
+langchainhub
+pypdf
+gpt4all
+streamlit
+pinecone-client
+langchain-pinecone
+google-generativeai
+
